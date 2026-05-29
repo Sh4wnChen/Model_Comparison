@@ -7,7 +7,7 @@
 %   - Model_<mdl>_pier_<period>.csv : daily model output
 %   - model_performance_3yr.csv     : R^2/RMSE summary table
 %   - Time series comparison plots (5x2) : one figure per model
-%   - RMSE_pier vs RMSE_FT scatter plot  : key evidence figure
+
 
 clear all;
 
